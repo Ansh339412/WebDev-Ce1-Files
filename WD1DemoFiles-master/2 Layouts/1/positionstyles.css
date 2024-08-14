@@ -1,0 +1,35 @@
+body{
+	 margin:0px;
+	 padding:0px;
+	 font-family:Helvetica;
+ }
+
+ #static, #relative, #absolute, #fixed{
+ 	width: 200px;
+ 	height: 200px;
+ 	background-color: #ABC;
+ 	color: #FFF;
+ }
+#static{
+	position: static;
+	background-color: #AABBCC;
+	color:#FFF;
+}
+
+
+#relative{
+	position: relative;
+	background-color: #BBCCDD;
+	left:20px;
+	top: -10px;
+}
+
+#fixed{
+	position: fixed;
+	background-color: #00FFAA;
+	color: #000
+	top:40%;
+	left:40%;
+}
+
+

@@ -1,0 +1,17 @@
+body
+{
+	margin:0px;
+	padding:0px;
+	font-family:Helvetica;
+}
+
+
+.floatleft{
+	float:left;
+}
+
+.floatright{
+	float: right;
+	width:200px;
+	height: 105px;
+}

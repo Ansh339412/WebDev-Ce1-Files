@@ -1,0 +1,24 @@
+h1, h2{ /* this is the selector to select where we have to apply the styling */
+	color: red;
+	text-shadow: 2px 2px 4px #000;
+}
+
+
+body{
+	background-color: #FFFF99;
+	width:800px;
+	font-family: Verdana;
+
+}
+
+.intro{
+	width:80%;
+	margin:5px,auto; /*margin: auto tells the browser to calculate and distribute margin space for an element evenly.*/
+
+	padding: 5px; /*it will give 5px space all the sides*/
+	background-color: #FFF;/* #FFF Is Hexcode and if we put #FFF and editor will automatically take it  as #FFFFFF*/
+
+	border: 4px #000 dashed;
+}
+
+

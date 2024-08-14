@@ -1,0 +1,46 @@
+/*This is linked with the Demo.html
+Module 1 first document*/
+
+body{
+	background-color: #FFFFFF;
+	width: 1200px;
+	font-family: Verdana, Helvetica, sans-serif;
+	border : 1px solid #000000;
+	margin : 0px auto;
+	
+	padding: 0px 10px;
+
+
+}
+.intro{
+	background-color: #FFFFFF;
+	width: 80%;
+	margin: 5px auto;
+	padding: 5px auto;
+	font-family: Verdana;
+	color: blue;
+
+}
+h1,h4{
+	color: red;
+}
+
+
+a{
+	font-family: Arial;
+	text-decoration: none;
+
+}
+a:link{
+	color: #1C4ED3;
+
+}
+a:visited{
+	color: #581845;
+}
+a:hover{
+	color: #AAA;
+}
+a:active{
+	text-decoration: underline;
+}
